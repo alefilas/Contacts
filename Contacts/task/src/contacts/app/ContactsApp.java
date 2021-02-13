@@ -37,7 +37,6 @@ public class ContactsApp {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     private void readFromFile(String fileName) throws IOException, ClassNotFoundException {

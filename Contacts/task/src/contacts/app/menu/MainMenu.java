@@ -36,7 +36,7 @@ public class MainMenu extends Menu {
                 break;
         }
 
-        return MainMenu.getInstance();
+        return this;
     }
 
     private void count() {
