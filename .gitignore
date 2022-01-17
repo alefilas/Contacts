@@ -1,3 +1,5 @@
 Problems/
-.idea
 .gradle
+.idea
+/build
+/out
